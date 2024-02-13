@@ -30,4 +30,8 @@ function calculateTriangleArea(){
  // display triangle area
  const triangleAreaSpan = document.getElementById('triangle-area');
  triangleAreaSpan.innerText = area;
+
+
+
+ 
 }
